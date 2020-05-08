@@ -1,14 +1,8 @@
 name = "Lithium (Fabric)"
-filename = "lithium-fabric-mc20w14a-0.5.0.jar"
+filename = "lithium-fabric-mc20w19a-0.5.0-SNAPSHOT.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2919/583/lithium-fabric-mc20w14a-0.5.0.jar"
-hash-format = "murmur2"
-hash = "2117967082"
-
-[update]
-[update.curseforge]
-file-id = 2919583
-project-id = 360438
-release-channel = "beta"
+url = "https://fibercraft.immibis.com/haykam/lithium-fabric-mc20w19a-0.5.0-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "161bc7ec9685e857e560a194935e98d1c90f9f83005a18b62efc29bd33244be8"

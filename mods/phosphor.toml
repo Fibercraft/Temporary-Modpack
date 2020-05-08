@@ -1,14 +1,8 @@
 name = "Phosphor (Fabric)"
-filename = "phosphor-fabric-mc20w13b-0.5.2+build.5.jar"
+filename = "phosphor-fabric-mc20w15a-0.5.2-SNAPSHOT.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2918/762/phosphor-fabric-mc20w13b-0.5.2+build.5.jar"
-hash-format = "murmur2"
-hash = "232280743"
-
-[update]
-[update.curseforge]
-file-id = 2918762
-project-id = 372124
-release-channel = "beta"
+url = "https://fibercraft.immibis.com/haykam/phosphor-fabric-mc20w15a-0.5.2-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "01ec0a2078ed4e49d40732a3df2865db56003e72796c93ca1ba03048e499e6bc"
