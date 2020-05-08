@@ -1,0 +1,14 @@
+name = "Phosphor (Fabric)"
+filename = "phosphor-fabric-mc20w13b-0.5.2+build.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2918/762/phosphor-fabric-mc20w13b-0.5.2+build.5.jar"
+hash-format = "murmur2"
+hash = "232280743"
+
+[update]
+[update.curseforge]
+file-id = 2918762
+project-id = 372124
+release-channel = "beta"

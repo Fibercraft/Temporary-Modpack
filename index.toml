@@ -6,6 +6,21 @@ hash = "6262dd0cbe2b18c7b661ee7fd77d1a3fc7c1c8610c88c391eca12a1fab046bf2"
 metafile = true
 
 [[files]]
+file = "mods/lithium.toml"
+hash = "a2b25129bc65f145e7f714bb65507617b4b263b2a5c541b7fb6c1f7c87bad3dc"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "57a50364e8da9ce1c060e849f026be93b9e2bb11d84cc697e51b31f509ed943c"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "c47f24118256b694f3b4f969910e49af90850f56bd7e5af37f63072a10e011e2"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "8da18cbe0e34e2b03f2e8c0f2769b0c25b37b5974e7ff1e67300080532817dfb"
 metafile = true
