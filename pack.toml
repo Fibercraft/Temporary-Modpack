@@ -1,0 +1,11 @@
+name = "Temporary Modpack"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "046b6769902ae170115990605400b5b19e70d8c804aa27cc9729b911841b374e"
+
+[versions]
+fabric = "0.8.2+build.194"
+minecraft = "20w19a"
+yarn = "20w19a+build.6"
