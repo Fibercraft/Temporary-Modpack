@@ -1,0 +1,14 @@
+name = "Sandwichable"
+filename = "sandwichable-1.0.2-snapshot--20w17a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2940/467/sandwichable-1.0.2-snapshot--20w17a.jar"
+hash-format = "murmur2"
+hash = "652181197"
+
+[update]
+[update.curseforge]
+file-id = 2940467
+project-id = 374143
+release-channel = "beta"

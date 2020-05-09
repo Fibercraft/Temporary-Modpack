@@ -49,3 +49,8 @@ metafile = true
 file = "mods/roughly-enough-items.toml"
 hash = "d2c3e05bdb115601acafe59ab1cbf0ea72a1c8dd54840c0ecdf96fc31b3d4d7b"
 metafile = true
+
+[[files]]
+file = "mods/sandwichable.toml"
+hash = "f060fbd9da67ed91dc4e6fe99a41a9c531e24245f65e662d59ecebaf922c1a03"
+metafile = true
