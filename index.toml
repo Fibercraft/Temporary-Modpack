@@ -56,6 +56,11 @@ hash = "8cf073e294dc31f7e8b4a65e157e2ffb239e148b7f7c8c6d68a82708414d8458"
 metafile = true
 
 [[files]]
+file = "mods/reborncore.toml"
+hash = "a3a4ae6ba4467bda3f51ff60af4da4f1afcbb7b8e8d20ec49af41696e422d151"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "d2c3e05bdb115601acafe59ab1cbf0ea72a1c8dd54840c0ecdf96fc31b3d4d7b"
 metafile = true
@@ -68,4 +73,9 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
 hash = "9a8ea879d4206516315c0de0a1cad4165d93544cbcaf8adc3b6c4ac6cbdd5fc6"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.toml"
+hash = "57a7354370a641e187c83580ea59f8fd899876c3671c5098f00523f824c3aa98"
 metafile = true
