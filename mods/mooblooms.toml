@@ -1,0 +1,14 @@
+name = "Mooblooms"
+filename = "mooblooms-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2941/912/mooblooms-1.2.2.jar"
+hash-format = "murmur2"
+hash = "1063255900"
+
+[update]
+[update.curseforge]
+file-id = 2941912
+project-id = 333946
+release-channel = "beta"

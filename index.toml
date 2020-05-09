@@ -31,6 +31,11 @@ hash = "57a50364e8da9ce1c060e849f026be93b9e2bb11d84cc697e51b31f509ed943c"
 metafile = true
 
 [[files]]
+file = "mods/mooblooms.toml"
+hash = "9e0b8c7ddd6f306c17a252b48db47614a25aa12727fbee597be5c4e92503fe1c"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.toml"
 hash = "23c03bed4a3ee779b4c61460399dcb6013af6ed30a2e6abbf17450528aa4da56"
 metafile = true
