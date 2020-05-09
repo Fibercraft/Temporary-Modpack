@@ -59,3 +59,8 @@ metafile = true
 file = "mods/sandwichable.toml"
 hash = "f060fbd9da67ed91dc4e6fe99a41a9c531e24245f65e662d59ecebaf922c1a03"
 metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.toml"
+hash = "9a8ea879d4206516315c0de0a1cad4165d93544cbcaf8adc3b6c4ac6cbdd5fc6"
+metafile = true
