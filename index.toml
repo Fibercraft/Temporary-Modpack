@@ -21,6 +21,11 @@ hash = "6262dd0cbe2b18c7b661ee7fd77d1a3fc7c1c8610c88c391eca12a1fab046bf2"
 metafile = true
 
 [[files]]
+file = "mods/fabric-autoswitch.toml"
+hash = "a71213b396a7737536b04f7f15ba1c617d057b4887896d29d080bdd6fd746f82"
+metafile = true
+
+[[files]]
 file = "mods/lithium.toml"
 hash = "c15c920cb1dc17a135e5979b2827c046d84f0fc9e900b2ac93521b0e5176b95a"
 metafile = true
