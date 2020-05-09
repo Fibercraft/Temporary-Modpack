@@ -22,5 +22,5 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "8da18cbe0e34e2b03f2e8c0f2769b0c25b37b5974e7ff1e67300080532817dfb"
+hash = "d2c3e05bdb115601acafe59ab1cbf0ea72a1c8dd54840c0ecdf96fc31b3d4d7b"
 metafile = true
