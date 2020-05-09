@@ -84,3 +84,8 @@ metafile = true
 file = "mods/techreborn.toml"
 hash = "57a7354370a641e187c83580ea59f8fd899876c3671c5098f00523f824c3aa98"
 metafile = true
+
+[[files]]
+file = "mods/towelette.toml"
+hash = "be5c425ee136f598da12dcbdebde3a8c80582eff330add3fb205636ccb680ef2"
+metafile = true
