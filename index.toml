@@ -41,6 +41,11 @@ hash = "39a541a9add6d5e33a42d1509fe32e6562f3cc71f835886cf9123ba2fd01885d"
 metafile = true
 
 [[files]]
+file = "mods/pling.toml"
+hash = "edc3f08432a69f5439dca17c3f8cbfba6066d0326c4e1fd0dcf62076e31d1b1f"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "d2c3e05bdb115601acafe59ab1cbf0ea72a1c8dd54840c0ecdf96fc31b3d4d7b"
 metafile = true
