@@ -21,6 +21,11 @@ hash = "23c03bed4a3ee779b4c61460399dcb6013af6ed30a2e6abbf17450528aa4da56"
 metafile = true
 
 [[files]]
+file = "mods/pleasant-rotation.toml"
+hash = "39a541a9add6d5e33a42d1509fe32e6562f3cc71f835886cf9123ba2fd01885d"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "d2c3e05bdb115601acafe59ab1cbf0ea72a1c8dd54840c0ecdf96fc31b3d4d7b"
 metafile = true

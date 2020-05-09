@@ -1,0 +1,14 @@
+name = "Pleasant Rotation"
+filename = "pleasant_rotation-1.0.0-1.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2950/779/pleasant_rotation-1.0.0-1.16.jar"
+hash-format = "murmur2"
+hash = "4226250533"
+
+[update]
+[update.curseforge]
+file-id = 2950779
+project-id = 381725
+release-channel = "beta"
