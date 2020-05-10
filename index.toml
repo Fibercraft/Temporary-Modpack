@@ -6,6 +6,11 @@ hash = "b14e4b7ba8369472b93399049da1560afea02e1f198553e5652ba860b3ed9110"
 metafile = true
 
 [[files]]
+file = "mods/blockus.toml"
+hash = "09028a5f114024f7572e47f94002ffb0426cb1eee38266f17988f074ecb10ab4"
+metafile = true
+
+[[files]]
 file = "mods/couplings.toml"
 hash = "164ac6e37af8ad177e8417af7962033e50d194b8a83e4cd39a1e37f59b97ead8"
 metafile = true
