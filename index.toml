@@ -31,6 +31,11 @@ hash = "a71213b396a7737536b04f7f15ba1c617d057b4887896d29d080bdd6fd746f82"
 metafile = true
 
 [[files]]
+file = "mods/fabric-more-enchantments.toml"
+hash = "47165202949fdf1df6135175cb06d9b78694f57c3fe65dc1ea1055e0fcd2f9b5"
+metafile = true
+
+[[files]]
 file = "mods/improved-stations.toml"
 hash = "640af166b325e4abf580c7b9021a769965e8279f6a4cbc4b950d7f02675b096e"
 metafile = true
