@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "c15c920cb1dc17a135e5979b2827c046d84f0fc9e900b2ac93521b0e5176b95a"
+hash = "d5ddaa46a3e7f9657b3daa4c8c7bd8c3105d104ae860b011216ad429762dce38"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/phosphor.toml"
-hash = "23c03bed4a3ee779b4c61460399dcb6013af6ed30a2e6abbf17450528aa4da56"
+hash = "da17fad630bed7633b5324e7e2c40119b21899dadcbe5a3b720ddcd4fbb308bd"
 metafile = true
 
 [[files]]

@@ -3,6 +3,6 @@ filename = "phosphor-fabric-mc20w15a-0.5.2-SNAPSHOT.jar"
 side = "both"
 
 [download]
-url = "https://fibercraft.immibis.com/haykam/phosphor-fabric-mc20w15a-0.5.2-SNAPSHOT.jar"
+url = "https://fibercraft.immibis.com/haykam/phosphor-fabric-mc20w19a-0.6.0-SNAPSHOT.jar"
 hash-format = "sha256"
-hash = "01ec0a2078ed4e49d40732a3df2865db56003e72796c93ca1ba03048e499e6bc"
+hash = "7102e712d1f8df19f01fc2fecfb3e6804f16d68ad1272f9bb6e131d8b5a4f230"
