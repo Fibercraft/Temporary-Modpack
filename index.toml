@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/conveyance.toml"
-hash = "1a7b22adf712976a11eb5b77bb79b1766a69f86b910d275cab175a335cb37fd7"
+hash = "6483de62808f6af61c5444613092809288f1ccb12729012860aa6b8e7f466a88"
 metafile = true
 
 [[files]]
