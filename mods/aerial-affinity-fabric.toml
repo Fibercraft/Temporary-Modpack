@@ -1,0 +1,14 @@
+name = "Aerial Affinity Fabric"
+filename = "aerialaffinity-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2896/968/aerialaffinity-1.0.jar"
+hash-format = "murmur2"
+hash = "4075778039"
+
+[update]
+[update.curseforge]
+file-id = 2896968
+project-id = 366380
+release-channel = "beta"

@@ -3,7 +3,7 @@ name = "Temporary Modpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7886873d613b17a1d0c512890c674261010ff041d816435f35c7076b55da9f50"
+hash = "b8200dd8adf333924593660a024a8632295a3c72ed0be52670f8a5f207f0f743"
 
 [versions]
 fabric = "0.8.2+build.194"

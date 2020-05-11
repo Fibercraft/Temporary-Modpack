@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/aerial-affinity-fabric.toml"
+hash = "3dcade896170843bfbcc100e67fa66221d234b4aada2b73308f87cc02b4638df"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "b14e4b7ba8369472b93399049da1560afea02e1f198553e5652ba860b3ed9110"
 metafile = true
