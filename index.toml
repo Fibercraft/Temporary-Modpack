@@ -16,11 +16,6 @@ hash = "1a7b22adf712976a11eb5b77bb79b1766a69f86b910d275cab175a335cb37fd7"
 metafile = true
 
 [[files]]
-file = "mods/couplings.toml"
-hash = "164ac6e37af8ad177e8417af7962033e50d194b8a83e4cd39a1e37f59b97ead8"
-metafile = true
-
-[[files]]
 file = "mods/extradoors.toml"
 hash = "a08ec5f4e912031e03b89d2f768b7dee3f49e8d1625e9128e5dbb5c211165b46"
 metafile = true
