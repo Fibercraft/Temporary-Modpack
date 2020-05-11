@@ -11,6 +11,11 @@ hash = "09028a5f114024f7572e47f94002ffb0426cb1eee38266f17988f074ecb10ab4"
 metafile = true
 
 [[files]]
+file = "mods/conveyance.toml"
+hash = "1a7b22adf712976a11eb5b77bb79b1766a69f86b910d275cab175a335cb37fd7"
+metafile = true
+
+[[files]]
 file = "mods/couplings.toml"
 hash = "164ac6e37af8ad177e8417af7962033e50d194b8a83e4cd39a1e37f59b97ead8"
 metafile = true
