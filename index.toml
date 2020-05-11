@@ -56,6 +56,11 @@ hash = "9e0b8c7ddd6f306c17a252b48db47614a25aa12727fbee597be5c4e92503fe1c"
 metafile = true
 
 [[files]]
+file = "mods/mouse-wheelie.toml"
+hash = "af97195e3b67741aa7e556722afab7416cf01e3d3c4e61d2c5bdd2dbad0ed083"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.toml"
 hash = "23c03bed4a3ee779b4c61460399dcb6013af6ed30a2e6abbf17450528aa4da56"
 metafile = true
