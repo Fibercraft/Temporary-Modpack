@@ -99,3 +99,8 @@ metafile = true
 file = "mods/techreborn.toml"
 hash = "57a7354370a641e187c83580ea59f8fd899876c3671c5098f00523f824c3aa98"
 metafile = true
+
+[[files]]
+file = "mods/voxelmap.toml"
+hash = "497ee942f3a5d10317b61265873b51fbd2d25f058ac726bbf529f2f07186c5f2"
+metafile = true
