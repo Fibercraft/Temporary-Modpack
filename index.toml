@@ -21,11 +21,6 @@ hash = "6483de62808f6af61c5444613092809288f1ccb12729012860aa6b8e7f466a88"
 metafile = true
 
 [[files]]
-file = "mods/extradoors.toml"
-hash = "a08ec5f4e912031e03b89d2f768b7dee3f49e8d1625e9128e5dbb5c211165b46"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.toml"
 hash = "6262dd0cbe2b18c7b661ee7fd77d1a3fc7c1c8610c88c391eca12a1fab046bf2"
 metafile = true
