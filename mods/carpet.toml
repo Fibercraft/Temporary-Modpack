@@ -1,0 +1,8 @@
+name = "Carpet"
+filename = "fabric-carpet-20w19a-1.3.22+v200506.jar"
+side = "both"
+
+[download]
+url = "https://github.com/gnembon/fabric-carpet/releases/download/v1.3-frozen/fabric-carpet-20w19a-1.3.22+v200506.jar"
+hash-format = "sha256"
+hash = "ED15D693B7C6E34CC0CC34D819A41E863DF1345949A74B3C128C763912FCB9FF"

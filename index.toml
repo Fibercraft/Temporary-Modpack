@@ -16,6 +16,11 @@ hash = "09028a5f114024f7572e47f94002ffb0426cb1eee38266f17988f074ecb10ab4"
 metafile = true
 
 [[files]]
+file = "mods/carpet.toml"
+hash = "f9c32bb03bb9e81e136f17ffc87241fa2d3fb455df7b969ac69c2eb0b776b120"
+metafile = true
+
+[[files]]
 file = "mods/conveyance.toml"
 hash = "6483de62808f6af61c5444613092809288f1ccb12729012860aa6b8e7f466a88"
 metafile = true
