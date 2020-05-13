@@ -81,8 +81,18 @@ hash = "f060fbd9da67ed91dc4e6fe99a41a9c531e24245f65e662d59ecebaf922c1a03"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard-fabric.toml"
+hash = "d98538b36b9abc99c58287108eee2c75d6b6cdba97766664a76ebd8279a7c679"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.toml"
 hash = "91e087e3c69e28777c335ddaf5dc6df3f1fc06a225385ee2790065cde35e7db7"
+metafile = true
+
+[[files]]
+file = "mods/staff-of-building.toml"
+hash = "40b5310dd71cdd02c13d7142aebddf476311aa6cd7bde1108e06050fb6ce8c08"
 metafile = true
 
 [[files]]
