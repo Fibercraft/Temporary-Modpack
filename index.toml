@@ -11,6 +11,11 @@ hash = "b14e4b7ba8369472b93399049da1560afea02e1f198553e5652ba860b3ed9110"
 metafile = true
 
 [[files]]
+file = "mods/bee-angry-est.toml"
+hash = "e3c739518e082399e1b25050979d2fe6c3e630a74b62728b0c22ab6be6b7c7c1"
+metafile = true
+
+[[files]]
 file = "mods/blockus.toml"
 hash = "09028a5f114024f7572e47f94002ffb0426cb1eee38266f17988f074ecb10ab4"
 metafile = true
