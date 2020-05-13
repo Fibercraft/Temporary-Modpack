@@ -1,14 +1,14 @@
 name = "Fabric AutoSwitch"
-filename = "autoswitch-1.4.0.jar"
+filename = "autoswitch-1.5.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2939/908/autoswitch-1.4.0.jar"
+url = "https://edge.forgecdn.net/files/2955/784/autoswitch-1.5.0.jar"
 hash-format = "murmur2"
-hash = "131053577"
+hash = "1318803007"
 
 [update]
 [update.curseforge]
-file-id = 2939908
+file-id = 2955784
 project-id = 347405
 release-channel = "beta"

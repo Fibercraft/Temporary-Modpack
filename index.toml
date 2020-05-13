@@ -22,12 +22,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "6262dd0cbe2b18c7b661ee7fd77d1a3fc7c1c8610c88c391eca12a1fab046bf2"
+hash = "a576e39362e14bb764dd22ab9b713cf76ac76f643a599fe7f7357d8487db5863"
 metafile = true
 
 [[files]]
 file = "mods/fabric-autoswitch.toml"
-hash = "a71213b396a7737536b04f7f15ba1c617d057b4887896d29d080bdd6fd746f82"
+hash = "f2963724c64c38e6009e3fd928340efe16dc7ecde3ca4c97885dc4bb900d775d"
 metafile = true
 
 [[files]]
