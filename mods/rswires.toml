@@ -1,0 +1,14 @@
+name = "RSWires"
+filename = "rswires-4.2.0-standalone.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2942/792/rswires-4.2.0-standalone.jar"
+hash-format = "murmur2"
+hash = "3286163936"
+
+[update]
+[update.curseforge]
+file-id = 2942792
+project-id = 286328
+release-channel = "beta"

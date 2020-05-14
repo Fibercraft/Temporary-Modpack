@@ -46,6 +46,11 @@ hash = "f2963724c64c38e6009e3fd928340efe16dc7ecde3ca4c97885dc4bb900d775d"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "dc12e08249d12b193f6e8afc816afdda938fc5d70f8310d9c9af89001bacbfdd"
+metafile = true
+
+[[files]]
 file = "mods/fabric-more-enchantments.toml"
 hash = "47165202949fdf1df6135175cb06d9b78694f57c3fe65dc1ea1055e0fcd2f9b5"
 metafile = true
@@ -108,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "d2c3e05bdb115601acafe59ab1cbf0ea72a1c8dd54840c0ecdf96fc31b3d4d7b"
+metafile = true
+
+[[files]]
+file = "mods/rswires.toml"
+hash = "c2fd3e0795bb776a3b8c2d4d65e56b364aacf7091c79bf9d65459f951ee62f79"
 metafile = true
 
 [[files]]
