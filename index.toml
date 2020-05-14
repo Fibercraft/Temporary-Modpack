@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.toml"
-hash = "af97195e3b67741aa7e556722afab7416cf01e3d3c4e61d2c5bdd2dbad0ed083"
+hash = "2f42294fa6d6170a8cf76068404114797b2fdf3830b73beb052e01a797336f2e"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.toml"
-hash = "3b4196dc2c0b9736d631a8ce642a4ad868dc341a1793d35819fe2e420e4a083f"
+hash = "2eaedaded8041d01a419aef152b2f57e61b2430911c8575e60cb6ef98432a177"
 metafile = true
 
 [[files]]
