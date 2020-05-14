@@ -1,0 +1,14 @@
+name = "Not Enough Crashes"
+filename = "notenoughcrashes-1.2.4+20w17a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2937/872/notenoughcrashes-1.2.4+20w17a.jar"
+hash-format = "murmur2"
+hash = "3721192726"
+
+[update]
+[update.curseforge]
+file-id = 2937872
+project-id = 353890
+release-channel = "beta"
