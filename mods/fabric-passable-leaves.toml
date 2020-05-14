@@ -1,14 +1,14 @@
 name = "Fabric Passable Leaves"
-filename = "passable-leaves-1.1.0.jar"
+filename = "passable-leaves-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://media.forgecdn.net/files/2955/998/passable-leaves-1.1.0.jar"
-hash-format = "sha256"
-hash = "A8A4A8ACC0C767CAC02C1EF9A89A59E2C1D7EC539755C43BED81CC143D31171F"
+url = "https://edge.forgecdn.net/files/2956/312/passable-leaves-1.2.0.jar"
+hash-format = "murmur2"
+hash = "1538933411"
 
 [update]
 [update.curseforge]
-file-id = 2911211
+file-id = 2956312
 project-id = 357620
 release-channel = "beta"

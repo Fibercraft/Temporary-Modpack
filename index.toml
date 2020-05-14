@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-passable-leaves.toml"
-hash = "285d6d9908d5893b23c42b57e1b5ee9efa9767cfa9c1677631400d01367c8d24"
+hash = "007da03d60ad6a39278d37bfdc76779f98b2bb63109f9ef7ebe8e84bd7192b9a"
 metafile = true
 
 [[files]]
