@@ -1,0 +1,14 @@
+name = "Ok Zoomer"
+filename = "okzoomer-3.0.1-20w12a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2909/687/okzoomer-3.0.1-20w12a.jar"
+hash-format = "murmur2"
+hash = "3821211118"
+
+[update]
+[update.curseforge]
+file-id = 2909687
+project-id = 354047
+release-channel = "beta"
