@@ -1,0 +1,14 @@
+name = "[Fabric] Expanded Storage"
+filename = "expandedstorage-4.12.41+20w17a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2946/702/expandedstorage-4.12.41+20w17a.jar"
+hash-format = "murmur2"
+hash = "231737320"
+
+[update]
+[update.curseforge]
+file-id = 2946702
+project-id = 317856
+release-channel = "beta"

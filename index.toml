@@ -36,6 +36,11 @@ hash = "6483de62808f6af61c5444613092809288f1ccb12729012860aa6b8e7f466a88"
 metafile = true
 
 [[files]]
+file = "mods/expanded-storage-fabric.toml"
+hash = "ef33bd926e9af2495a9d3ae5934e777de533c856a91f919f17b12af807e0ad66"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "a576e39362e14bb764dd22ab9b713cf76ac76f643a599fe7f7357d8487db5863"
 metafile = true
