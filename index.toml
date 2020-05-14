@@ -26,6 +26,11 @@ hash = "cd5a81ea532a918b31933b8986f05d129dcf0a13b56a17552dfb8dbea8feb7bc"
 metafile = true
 
 [[files]]
+file = "mods/cave-biomes.toml"
+hash = "a2c5a7a91ecbf83e8132fb204d5994938fd7eb1e7ad9d7c9f58b116c37fa5902"
+metafile = true
+
+[[files]]
 file = "mods/conveyance.toml"
 hash = "6483de62808f6af61c5444613092809288f1ccb12729012860aa6b8e7f466a88"
 metafile = true
@@ -91,6 +96,11 @@ hash = "a3a4ae6ba4467bda3f51ff60af4da4f1afcbb7b8e8d20ec49af41696e422d151"
 metafile = true
 
 [[files]]
+file = "mods/river-redux.toml"
+hash = "bae923b2d3d675758611852145c016b5e7460955f598d0a898b374d013659061"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "d2c3e05bdb115601acafe59ab1cbf0ea72a1c8dd54840c0ecdf96fc31b3d4d7b"
 metafile = true
@@ -118,6 +128,16 @@ metafile = true
 [[files]]
 file = "mods/techreborn.toml"
 hash = "57a7354370a641e187c83580ea59f8fd899876c3671c5098f00523f824c3aa98"
+metafile = true
+
+[[files]]
+file = "mods/traverse.toml"
+hash = "48004999ab41c7357090648a6daed110bd6c894469c9364a4f7db8a24f8d250e"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-biomes.toml"
+hash = "f529309d9e07a8541e9299c772f2ebf8a2c797951188415d0a0cb680bfa4676a"
 metafile = true
 
 [[files]]
