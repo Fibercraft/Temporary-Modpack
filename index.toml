@@ -91,6 +91,11 @@ hash = "9e0b8c7ddd6f306c17a252b48db47614a25aa12727fbee597be5c4e92503fe1c"
 metafile = true
 
 [[files]]
+file = "mods/mouse-wheelie.toml"
+hash = "2f42294fa6d6170a8cf76068404114797b2fdf3830b73beb052e01a797336f2e"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-crashes.toml"
 hash = "fe6c2a028fff1ac7e02eef329238d9d96d1b66216f8fcaf0ac61990ad912c312"
 metafile = true
