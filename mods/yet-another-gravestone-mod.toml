@@ -1,0 +1,14 @@
+name = "Yet Another Gravestone Mod"
+filename = "yet-another-gravestone-mod-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2920/50/yet-another-gravestone-mod-1.2.4.jar"
+hash-format = "murmur2"
+hash = "2634216881"
+
+[update]
+[update.curseforge]
+file-id = 2920050
+project-id = 353479
+release-channel = "beta"

@@ -124,3 +124,8 @@ metafile = true
 file = "mods/voxelmap.toml"
 hash = "497ee942f3a5d10317b61265873b51fbd2d25f058ac726bbf529f2f07186c5f2"
 metafile = true
+
+[[files]]
+file = "mods/yet-another-gravestone-mod.toml"
+hash = "708edf39290d844dcdee5830edf8ca41308e8027639fe202109354dbe1f734b0"
+metafile = true
