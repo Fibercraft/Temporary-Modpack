@@ -1,6 +1,6 @@
 name = "Flowing Background"
 filename = "FlowingBackground-1.1.0+20w20b.jar"
-side = "both"
+side = "client"
 
 [option]
 optional = true

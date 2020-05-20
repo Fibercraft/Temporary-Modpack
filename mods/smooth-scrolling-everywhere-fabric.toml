@@ -1,6 +1,6 @@
 name = "Smooth Scrolling Everywhere (Fabric)"
 filename = "SmoothScrollingEverywhere-3.0.2-unstable.jar"
-side = "both"
+side = "client"
 
 [option]
 optional = true

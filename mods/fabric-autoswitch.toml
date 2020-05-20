@@ -1,6 +1,6 @@
 name = "Fabric AutoSwitch"
 filename = "autoswitch-1.6.0.jar"
-side = "both"
+side = "client"
 
 [option]
 optional = true

@@ -1,6 +1,6 @@
 name = "True Darkness"
 filename = "darkness-mc116-1.4.35.jar"
-side = "both"
+side = "client"
 
 [option]
 optional = true

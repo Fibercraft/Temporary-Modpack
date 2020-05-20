@@ -1,6 +1,6 @@
 name = "Custom Selection Box"
 filename = "CustomSelectionBox-5.0.0-unstable.jar"
-side = "both"
+side = "client"
 
 [option]
 optional = true

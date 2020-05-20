@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-selection-box-port.toml"
-hash = "a4546a7e1e6e5a5a826abba1c576e223423502ba7354e57d9db01adb1800bc7e"
+hash = "a07523fa827b21cd2a162ac0591a119d743a625b4a636407828687b44d2ad544"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-autoswitch.toml"
-hash = "6ad589643696d03d787ac7a1cf95c52d25dc987a0050f6311fcb6185729dad64"
+hash = "2b63b8ff03f116aa578eb8cec3ec54df5c16e5929c01c079d433b49f5e56f2f2"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/flowing-background.toml"
-hash = "dccef60c64f596ac81e879893d04677f11b0ad7591be1a0c77074c74d11a535c"
+hash = "21e26f8d4e5d51f598a6cdd0c77981661e310be4640b2b01a3b0769e2060d3cd"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-scrolling-everywhere-fabric.toml"
-hash = "21edce3ba92791826edd3493120103bc810b3643b47113a2407a6647d5674766"
+hash = "8c73f38bb8ef7d625cde2c046035ee311d7218d547d4a83ed8a04a60415cc5a5"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/true-darkness.toml"
-hash = "03a7e91384f67609c92a1057bc05dd4857d9e29f798ce9209936fca72272bcbc"
+hash = "12fb863d030c5e0fb8b20ee064ac918f9f70dd03e540ff54e7155d2d718616c5"
 metafile = true
 
 [[files]]
@@ -313,11 +313,6 @@ metafile = true
 [[files]]
 file = "mods/voxelmap.toml"
 hash = "b700829e5bcd15961af5e3091cf1533c44a9ec103bb2df81d3864addc16224a0"
-metafile = true
-
-[[files]]
-file = "mods/where-is-it.toml"
-hash = "4bb1beff9e5c5c706af0a1859099de0efa9daf71062217db407c06f3ca2932b9"
 metafile = true
 
 [[files]]
