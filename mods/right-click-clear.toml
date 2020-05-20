@@ -1,0 +1,14 @@
+name = "Right Click Clear"
+filename = "right-click-clear-2.0.1-unstable.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2956/332/right-click-clear-2.0.1-unstable.jar"
+hash-format = "murmur2"
+hash = "4067195460"
+
+[update]
+[update.curseforge]
+file-id = 2956332
+project-id = 332548
+release-channel = "beta"

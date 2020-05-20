@@ -1,0 +1,14 @@
+name = "BetterPiercing [FABRIC/FORGE]"
+filename = "betterpiercing-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2958/321/betterpiercing-1.0.0.jar"
+hash-format = "murmur2"
+hash = "3472610918"
+
+[update]
+[update.curseforge]
+file-id = 2958321
+project-id = 383781
+release-channel = "beta"

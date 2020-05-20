@@ -1,0 +1,14 @@
+name = "Gubbins"
+filename = "gubbins-beta-1.2.7-20w20b.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2956/910/gubbins-beta-1.2.7-20w20b.jar"
+hash-format = "murmur2"
+hash = "3055119574"
+
+[update]
+[update.curseforge]
+file-id = 2956910
+project-id = 374432
+release-channel = "beta"

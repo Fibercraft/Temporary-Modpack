@@ -1,0 +1,14 @@
+name = "Torcherino"
+filename = "torcherino-2.11.63+20w18a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2948/912/torcherino-2.11.63+20w18a.jar"
+hash-format = "murmur2"
+hash = "782921832"
+
+[update]
+[update.curseforge]
+file-id = 2948912
+project-id = 236794
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "No Potion Offset (Fabric/Forge)"
+filename = "no-potion-offset-1.0.1-unstable.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2956/339/no-potion-offset-1.0.1-unstable.jar"
+hash-format = "murmur2"
+hash = "1818124775"
+
+[update]
+[update.curseforge]
+file-id = 2956339
+project-id = 361550
+release-channel = "beta"

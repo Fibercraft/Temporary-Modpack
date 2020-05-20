@@ -1,0 +1,14 @@
+name = "Advancements Enlarger"
+filename = "advancements-enlarger-0.2.1-unstable.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2956/445/advancements-enlarger-0.2.1-unstable.jar"
+hash-format = "murmur2"
+hash = "1099995178"
+
+[update]
+[update.curseforge]
+file-id = 2956445
+project-id = 355583
+release-channel = "beta"

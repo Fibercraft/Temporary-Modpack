@@ -1,0 +1,14 @@
+name = "Resource Crops [Fabric]"
+filename = "fabric-crops-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2960/979/fabric-crops-1.0.0.jar"
+hash-format = "murmur2"
+hash = "1551798525"
+
+[update]
+[update.curseforge]
+file-id = 2960979
+project-id = 384483
+release-channel = "beta"

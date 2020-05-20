@@ -1,8 +1,23 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/adorn.toml"
+hash = "11012e48319a7c4a402b2b734f67f3bb6231db2e734cf92f0778d63160b4a88f"
+metafile = true
+
+[[files]]
+file = "mods/advancements-enlarger.toml"
+hash = "3360de683eee52d4951db5205324acbdb302ef799d276408d2aab0829754c3d5"
+metafile = true
+
+[[files]]
 file = "mods/aerial-affinity-fabric.toml"
 hash = "3dcade896170843bfbcc100e67fa66221d234b4aada2b73308f87cc02b4638df"
+metafile = true
+
+[[files]]
+file = "mods/afkpeace.toml"
+hash = "ff02d07f93aa7f60b01c7572c8387fe738744b4ef13424d1117cfa8742ecc189"
 metafile = true
 
 [[files]]
@@ -16,13 +31,53 @@ hash = "e3c739518e082399e1b25050979d2fe6c3e630a74b62728b0c22ab6be6b7c7c1"
 metafile = true
 
 [[files]]
+file = "mods/betterpiercing.toml"
+hash = "e45420779ec039eb1c8b6aa7ba5484ac2e33f2e016c5fdd1d09cbe0f9ef67358"
+metafile = true
+
+[[files]]
 file = "mods/blockus.toml"
 hash = "09028a5f114024f7572e47f94002ffb0426cb1eee38266f17988f074ecb10ab4"
 metafile = true
 
 [[files]]
+file = "mods/campanion.toml"
+hash = "61b1da28a6cfa001bcaa58ea43c59badf1c01cfb3ae6af0f3f3b810c498d8710"
+metafile = true
+
+[[files]]
 file = "mods/carpet.toml"
 hash = "22d54958fa0817b10a24cb4ec34797dbafb1f05722c2e9f1ae2ebc71a6aa5e7e"
+metafile = true
+
+[[files]]
+file = "mods/clear-skies.toml"
+hash = "f14c6fac414abb8cc2fdcc07cee407823131a4f1ce79642589eb87282e1e18f8"
+metafile = true
+
+[[files]]
+file = "mods/connected-block-textures.toml"
+hash = "3a38a6e242c983b73cf0d693fd9c9d1dc81a895c57b8a28bdf729b31531e125a"
+metafile = true
+
+[[files]]
+file = "mods/custom-selection-box-port.toml"
+hash = "6e3a97752391f847b230971463f06c31c9bc3a105be9844dc68876aa6e636262"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.toml"
+hash = "e025386c442704a866518e872a0018d3c710311b17a2e64e33c72fef053a8cc5"
+metafile = true
+
+[[files]]
+file = "mods/exotic-blocks.toml"
+hash = "5bcb9740b667043958b0dd19e8872ae7d2ae5ed59d856049d973b9ad99e354b7"
+metafile = true
+
+[[files]]
+file = "mods/exotic-matter-library.toml"
+hash = "3e5c41a00f680416aeada384f7ee57c7b8d7ea4897bdfa22a1e3d4513f643b68"
 metafile = true
 
 [[files]]
@@ -51,13 +106,53 @@ hash = "007da03d60ad6a39278d37bfdc76779f98b2bb63109f9ef7ebe8e84bd7192b9a"
 metafile = true
 
 [[files]]
+file = "mods/facility.toml"
+hash = "61fdaa449953d4c5755e5b510dcf85c20d35d3af98c301c64a70c120963e1b9b"
+metafile = true
+
+[[files]]
+file = "mods/flamingo.toml"
+hash = "068a7fb7d791e573d4c85d2024db468e5d773701828b41f04558a4000df55bdc"
+metafile = true
+
+[[files]]
 file = "mods/flowing-background.toml"
 hash = "acde6bbbf98f244232a9ae2803df9987834f315370c0acbf527b4f2bac2ae08f"
 metafile = true
 
 [[files]]
+file = "mods/gravel-ores-fabric.toml"
+hash = "d6b18a88703b2894631c0a8d9e2bd667689cea4c66e687cef2c9a785467da682"
+metafile = true
+
+[[files]]
+file = "mods/gubbins.toml"
+hash = "e0b8e0ebd4265b3016adc55ba0b8d43f41a653e996b70d7019186a3bd5e42772"
+metafile = true
+
+[[files]]
 file = "mods/improved-stations.toml"
 hash = "db4a98231e4b1ee60517df9c264f317cdd3c505b70ca2a279ccd7ea9a5489380"
+metafile = true
+
+[[files]]
+file = "mods/javadungeons.toml"
+hash = "cf815b14c2eb9700a51846fca32ad6de3fc97ca60f962a26dcc7e671e618a458"
+metafile = true
+
+[[files]]
+file = "mods/light-block-fabric.toml"
+hash = "0163eb6e15580840c27f9a616a79fb38f12831b0730f1cbc3df7e0491e0c523a"
+metafile = true
+
+[[files]]
+file = "mods/lil-tater-reloaded.toml"
+hash = "8d0eb4b55ea908a4dfcc2e32bfa7c529a59750d42d008e7690b9dd1b135d8084"
+metafile = true
+
+[[files]]
+file = "mods/mo-structures.toml"
+hash = "9f15cc0d91655656708ec61d0d4cbf038e811fcc888442a58712df3a60e439c9"
 metafile = true
 
 [[files]]
@@ -76,6 +171,21 @@ hash = "1dd801a3294a3b487a8a42dbaa36d14cced4a715bcdd2255cceaaa1638907f5f"
 metafile = true
 
 [[files]]
+file = "mods/mr-pineapples-food-mod.toml"
+hash = "b7175033206cec25b6b5b609543d7b12bac42a8df503e993718224f7d868f8cd"
+metafile = true
+
+[[files]]
+file = "mods/nice-to-have.toml"
+hash = "05e78a2c5a62af12e4403ee8f087dd15e00ccd34a8d09fc3716777b0825d9f1e"
+metafile = true
+
+[[files]]
+file = "mods/no-potion-offset.toml"
+hash = "34cfe621598531cb46f73aaa56e17aa99e8d7aba29f2949bda04ae709a17b4ea"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-crashes.toml"
 hash = "fe6c2a028fff1ac7e02eef329238d9d96d1b66216f8fcaf0ac61990ad912c312"
 metafile = true
@@ -83,6 +193,16 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.toml"
 hash = "2eaedaded8041d01a419aef152b2f57e61b2430911c8575e60cb6ef98432a177"
+metafile = true
+
+[[files]]
+file = "mods/packages.toml"
+hash = "6685c3c0ed42ef1806f62420e9f62e09f9d4ad320e856bf75b01c3242810401f"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.toml"
+hash = "624a54743777f82e3f99e5a93e1a44d68a000aa705512355d57cf7ebbde137de"
 metafile = true
 
 [[files]]
@@ -96,6 +216,26 @@ hash = "8cf073e294dc31f7e8b4a65e157e2ffb239e148b7f7c8c6d68a82708414d8458"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.toml"
+hash = "02203d7b4af4c72b2ed732fdd03e0392838153151cfff3345f04f31ba4930d1b"
+metafile = true
+
+[[files]]
+file = "mods/rare-ice.toml"
+hash = "1727f26918c9b8c2155e498d451e0606d8677f7ebe3547168ab1a786fdee4020"
+metafile = true
+
+[[files]]
+file = "mods/resource-crops-fabric.toml"
+hash = "f4f17e56d9bf4f959e43da087917a801766abef332069ce50ad412314918c483"
+metafile = true
+
+[[files]]
+file = "mods/right-click-clear.toml"
+hash = "05cf6ea8b699b1e3c206ad14c016cd4577580c545e9ec821aae2078456269a98"
+metafile = true
+
+[[files]]
 file = "mods/river-redux.toml"
 hash = "ccd9493d8e6400893bd09c0f0bd4d3d1c4850a3bd3c3003664bc54fdd8b4390e"
 metafile = true
@@ -103,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "2d9d9edeeeabfd87793191ec3dec22cc86db9169444783b33059cadb2f13a946"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.toml"
+hash = "9fa2582ef5fcc99639a24a43662ee3c09b4ed76952a3f92ff338394a28f4f76a"
 metafile = true
 
 [[files]]
@@ -121,8 +266,23 @@ hash = "91e087e3c69e28777c335ddaf5dc6df3f1fc06a225385ee2790065cde35e7db7"
 metafile = true
 
 [[files]]
+file = "mods/simplex-terrain-generation.toml"
+hash = "0f313bc51bd0644138c49cb4552e7b219f0b1ee7a6f191390dbd53657edc9a1c"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scrolling-everywhere-fabric.toml"
+hash = "b9887c666a64dfa971fcb0083a7c9b5478de883fdd393da42a6d708306dac652"
+metafile = true
+
+[[files]]
 file = "mods/staff-of-building.toml"
 hash = "5dfeb14d8520a3ff4e00da1ecb085c7862e1b2ecc60bad1b418ee04001411e90"
+metafile = true
+
+[[files]]
+file = "mods/torcherino.toml"
+hash = "a9eb8a19b67bfb458dd3e66b5e4e523ec952072881f129dad6235471301f5e58"
 metafile = true
 
 [[files]]
@@ -131,11 +291,36 @@ hash = "acb322172851c07867faa77a67b4c43a7a3799e7a1d1864cef5505dc762be1b4"
 metafile = true
 
 [[files]]
+file = "mods/trees-do-not-float.toml"
+hash = "95d4a8456ace8d6b1a6cec814e39c81dde38c81a9e65aba8cd5dc4eea783802d"
+metafile = true
+
+[[files]]
+file = "mods/true-darkness.toml"
+hash = "d104a761ac2d03e88247f17bff8954b58501887b7c2d58fe876371a8dd2a46da"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-biomes.toml"
 hash = "48b79f2ef4e9b97e8c4d84e41185d289a8e3a81a65dff9300b424fb3da1bfe36"
 metafile = true
 
 [[files]]
+file = "mods/void-fog-fabric.toml"
+hash = "93e843c58ecc9aea1b40042c689e8c39b49061c244443904e71ec0b42d78e7a3"
+metafile = true
+
+[[files]]
 file = "mods/voxelmap.toml"
 hash = "b700829e5bcd15961af5e3091cf1533c44a9ec103bb2df81d3864addc16224a0"
+metafile = true
+
+[[files]]
+file = "mods/where-is-it.toml"
+hash = "4bb1beff9e5c5c706af0a1859099de0efa9daf71062217db407c06f3ca2932b9"
+metafile = true
+
+[[files]]
+file = "mods/winged.toml"
+hash = "a6312d945685f5a25c459499d4cbec7d70ebd1498be35b4f772e888f71ef391a"
 metafile = true

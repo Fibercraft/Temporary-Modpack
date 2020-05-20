@@ -1,0 +1,14 @@
+name = "Pehkui"
+filename = "Pehkui-1.5.0+20w19a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2952/527/Pehkui-1.5.0+20w19a.jar"
+hash-format = "murmur2"
+hash = "726429392"
+
+[update]
+[update.curseforge]
+file-id = 2952527
+project-id = 319596
+release-channel = "beta"

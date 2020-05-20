@@ -1,0 +1,14 @@
+name = "Exotic Blocks"
+filename = "exotic-blocks-mc116-1.3.123.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2958/690/exotic-blocks-mc116-1.3.123.jar"
+hash-format = "murmur2"
+hash = "1812859601"
+
+[update]
+[update.curseforge]
+file-id = 2958690
+project-id = 339561
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Connected Block Textures"
+filename = "connected-block-textures-0.1.0+1.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2952/285/connected-block-textures-0.1.0+1.16.jar"
+hash-format = "murmur2"
+hash = "2493936946"
+
+[update]
+[update.curseforge]
+file-id = 2952285
+project-id = 382022
+release-channel = "beta"

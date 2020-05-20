@@ -1,0 +1,14 @@
+name = "Light Block - Fabric"
+filename = "lightblock-20w20b+1.0.0+build.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2959/871/lightblock-20w20b+1.0.0+build.2.jar"
+hash-format = "murmur2"
+hash = "2593764122"
+
+[update]
+[update.curseforge]
+file-id = 2959871
+project-id = 383801
+release-channel = "beta"

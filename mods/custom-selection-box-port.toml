@@ -1,0 +1,14 @@
+name = "Custom Selection Box"
+filename = "CustomSelectionBox-5.0.0-unstable.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2956/439/CustomSelectionBox-5.0.0-unstable.jar"
+hash-format = "murmur2"
+hash = "1395605263"
+
+[update]
+[update.curseforge]
+file-id = 2956439
+project-id = 308792
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Exotic Matter Library"
+filename = "exotic-matter-mc116-1.19.315.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2958/693/exotic-matter-mc116-1.19.315.jar"
+hash-format = "murmur2"
+hash = "3081849096"
+
+[update]
+[update.curseforge]
+file-id = 2958693
+project-id = 304811
+release-channel = "beta"

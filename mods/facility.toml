@@ -1,0 +1,14 @@
+name = "Facility"
+filename = "facility-mc116-0.8.132.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2958/695/facility-mc116-0.8.132.jar"
+hash-format = "murmur2"
+hash = "2332613074"
+
+[update]
+[update.curseforge]
+file-id = 2958695
+project-id = 319822
+release-channel = "beta"

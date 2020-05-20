@@ -1,0 +1,8 @@
+name = "Flamingo"
+filename = "Flamingo-20w20b-1.17.jar"
+side = "both"
+
+[download]
+url = "https://fibercraft.immibis.com/comp500/Flamingo-20w20b-1.17.jar"
+hash-format = "sha256"
+hash = "71F95301DCA005D09D85BBC5895CF942D2418493D04697FE9C71FEDF34438261"
