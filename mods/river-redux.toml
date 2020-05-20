@@ -1,14 +1,14 @@
 name = "River Redux"
-filename = "riverredux-0.1.1-20w19a.jar"
+filename = "riverredux-0.1.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2950/834/riverredux-0.1.1-20w19a.jar"
+url = "https://edge.forgecdn.net/files/2958/375/riverredux-0.1.2.jar"
 hash-format = "murmur2"
-hash = "3834603355"
+hash = "3449315878"
 
 [update]
 [update.curseforge]
-file-id = 2950834
+file-id = 2958375
 project-id = 380548
 release-channel = "beta"

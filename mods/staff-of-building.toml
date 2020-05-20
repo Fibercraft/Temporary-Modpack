@@ -1,14 +1,14 @@
 name = "Staff of Building"
-filename = "staffofbuilding-1.0.0.jar"
+filename = "staffofbuilding-1.0.0_20w19a.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2954/263/staffofbuilding-1.0.0.jar"
+url = "https://edge.forgecdn.net/files/2959/554/staffofbuilding-1.0.0_20w19a.jar"
 hash-format = "murmur2"
-hash = "529726611"
+hash = "1706248536"
 
 [update]
 [update.curseforge]
-file-id = 2954263
+file-id = 2959554
 project-id = 382694
 release-channel = "beta"

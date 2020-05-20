@@ -1,14 +1,14 @@
 name = "Improved Stations (Fabric)"
-filename = "improved-stations-2.0.0-unstable.jar"
+filename = "improved-stations-2.0.1-unstable.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2905/308/improved-stations-2.0.0-unstable.jar"
+url = "https://edge.forgecdn.net/files/2956/309/improved-stations-2.0.1-unstable.jar"
 hash-format = "murmur2"
-hash = "3794037232"
+hash = "14212384"
 
 [update]
 [update.curseforge]
-file-id = 2905308
+file-id = 2956309
 project-id = 355914
 release-channel = "beta"

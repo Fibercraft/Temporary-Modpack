@@ -1,14 +1,14 @@
 name = "Flowing Background"
-filename = "FlowingBackground-1.0.0+20w18a.jar"
+filename = "FlowingBackground-1.1.0+20w20b.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2946/530/FlowingBackground-1.0.0+20w18a.jar"
+url = "https://edge.forgecdn.net/files/2959/143/FlowingBackground-1.1.0+20w20b.jar"
 hash-format = "murmur2"
-hash = "3904972705"
+hash = "3132547561"
 
 [update]
 [update.curseforge]
-file-id = 2946530
+file-id = 2959143
 project-id = 380476
 release-channel = "beta"

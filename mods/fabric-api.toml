@@ -1,14 +1,14 @@
 name = "Fabric API"
-filename = "fabric-api-0.10.8+build.345-1.16.jar"
+filename = "fabric-api-0.10.9+build.346-1.16.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2954/408/fabric-api-0.10.8+build.345-1.16.jar"
+url = "https://edge.forgecdn.net/files/2955/963/fabric-api-0.10.9+build.346-1.16.jar"
 hash-format = "murmur2"
-hash = "2443672748"
+hash = "1112024823"
 
 [update]
 [update.curseforge]
-file-id = 2954408
+file-id = 2955963
 project-id = 306612
 release-channel = "beta"

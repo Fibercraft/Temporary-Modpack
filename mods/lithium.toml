@@ -1,8 +1,0 @@
-name = "Lithium (Fabric)"
-filename = "lithium-fabric-mc20w19a-0.5.0-SNAPSHOT.jar"
-side = "both"
-
-[download]
-url = "https://fibercraft.immibis.com/haykam/lithium-fabric-mc20w19a-0.5.0-SNAPSHOT.jar"
-hash-format = "sha256"
-hash = "2efd1aedbde5620b985671d0d174fd2396ef6885ab6af12b365e033a03af27c5"
