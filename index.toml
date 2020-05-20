@@ -261,11 +261,6 @@ hash = "91e087e3c69e28777c335ddaf5dc6df3f1fc06a225385ee2790065cde35e7db7"
 metafile = true
 
 [[files]]
-file = "mods/simplex-terrain-generation.toml"
-hash = "0f313bc51bd0644138c49cb4552e7b219f0b1ee7a6f191390dbd53657edc9a1c"
-metafile = true
-
-[[files]]
 file = "mods/smooth-scrolling-everywhere-fabric.toml"
 hash = "8c73f38bb8ef7d625cde2c046035ee311d7218d547d4a83ed8a04a60415cc5a5"
 metafile = true
