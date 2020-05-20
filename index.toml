@@ -136,11 +136,6 @@ hash = "db4a98231e4b1ee60517df9c264f317cdd3c505b70ca2a279ccd7ea9a5489380"
 metafile = true
 
 [[files]]
-file = "mods/javadungeons.toml"
-hash = "cf815b14c2eb9700a51846fca32ad6de3fc97ca60f962a26dcc7e671e618a458"
-metafile = true
-
-[[files]]
 file = "mods/light-block-fabric.toml"
 hash = "0163eb6e15580840c27f9a616a79fb38f12831b0730f1cbc3df7e0491e0c523a"
 metafile = true

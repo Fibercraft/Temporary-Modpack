@@ -1,0 +1,14 @@
+name = "Where Is It"
+filename = "WhereIsIt-20w20b-1.4.2.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/2956/602/WhereIsIt-20w20b-1.4.2.jar"
+hash-format = "murmur2"
+hash = "3958568517"
+
+[update]
+[update.curseforge]
+file-id = 2956602
+project-id = 378036
+release-channel = "beta"
