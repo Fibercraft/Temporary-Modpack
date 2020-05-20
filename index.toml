@@ -116,11 +116,6 @@ hash = "068a7fb7d791e573d4c85d2024db468e5d773701828b41f04558a4000df55bdc"
 metafile = true
 
 [[files]]
-file = "mods/flowing-background.toml"
-hash = "21e26f8d4e5d51f598a6cdd0c77981661e310be4640b2b01a3b0769e2060d3cd"
-metafile = true
-
-[[files]]
 file = "mods/gravel-ores-fabric.toml"
 hash = "d6b18a88703b2894631c0a8d9e2bd667689cea4c66e687cef2c9a785467da682"
 metafile = true
