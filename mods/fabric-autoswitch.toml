@@ -2,6 +2,11 @@ name = "Fabric AutoSwitch"
 filename = "autoswitch-1.6.0.jar"
 side = "both"
 
+[option]
+optional = true
+description = "switches to pickaxe when you're about to mine"
+default = true
+
 [download]
 url = "https://edge.forgecdn.net/files/2957/913/autoswitch-1.6.0.jar"
 hash-format = "murmur2"

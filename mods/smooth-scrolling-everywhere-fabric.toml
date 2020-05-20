@@ -2,6 +2,11 @@ name = "Smooth Scrolling Everywhere (Fabric)"
 filename = "SmoothScrollingEverywhere-3.0.2-unstable.jar"
 side = "both"
 
+[option]
+optional = true
+description = "too smooth for me"
+default = false
+
 [download]
 url = "https://edge.forgecdn.net/files/2956/327/SmoothScrollingEverywhere-3.0.2-unstable.jar"
 hash-format = "murmur2"

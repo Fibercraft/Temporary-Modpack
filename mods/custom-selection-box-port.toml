@@ -2,6 +2,11 @@ name = "Custom Selection Box"
 filename = "CustomSelectionBox-5.0.0-unstable.jar"
 side = "both"
 
+[option]
+optional = true
+description = "select things with custom outline"
+default = false
+
 [download]
 url = "https://edge.forgecdn.net/files/2956/439/CustomSelectionBox-5.0.0-unstable.jar"
 hash-format = "murmur2"

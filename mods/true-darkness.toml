@@ -2,6 +2,11 @@ name = "True Darkness"
 filename = "darkness-mc116-1.4.35.jar"
 side = "both"
 
+[option]
+optional = true
+description = "spooky dark mod"
+default = true
+
 [download]
 url = "https://edge.forgecdn.net/files/2958/683/darkness-mc116-1.4.35.jar"
 hash-format = "murmur2"
