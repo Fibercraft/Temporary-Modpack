@@ -302,5 +302,5 @@ metafile = true
 
 [[files]]
 file = "mods/winged.toml"
-hash = "a6312d945685f5a25c459499d4cbec7d70ebd1498be35b4f772e888f71ef391a"
+hash = "98bd6970ebdc50d34f1eaff4230b604d040673563a0bd0149694d4b74adb5024"
 metafile = true
