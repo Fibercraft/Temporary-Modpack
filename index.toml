@@ -301,6 +301,11 @@ hash = "b700829e5bcd15961af5e3091cf1533c44a9ec103bb2df81d3864addc16224a0"
 metafile = true
 
 [[files]]
+file = "mods/where-is-it.toml"
+hash = "a5fa7217176559d4760a59fea55897fc475555291bff11a14457a3a0ac9ab522"
+metafile = true
+
+[[files]]
 file = "mods/winged.toml"
 hash = "98bd6970ebdc50d34f1eaff4230b604d040673563a0bd0149694d4b74adb5024"
 metafile = true
