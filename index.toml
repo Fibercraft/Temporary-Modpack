@@ -161,6 +161,11 @@ hash = "1dd801a3294a3b487a8a42dbaa36d14cced4a715bcdd2255cceaaa1638907f5f"
 metafile = true
 
 [[files]]
+file = "mods/mr-pineapples-food-mod.toml"
+hash = "b7175033206cec25b6b5b609543d7b12bac42a8df503e993718224f7d868f8cd"
+metafile = true
+
+[[files]]
 file = "mods/nice-to-have.toml"
 hash = "05e78a2c5a62af12e4403ee8f087dd15e00ccd34a8d09fc3716777b0825d9f1e"
 metafile = true
