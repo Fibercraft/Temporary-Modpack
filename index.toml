@@ -166,11 +166,6 @@ hash = "b7175033206cec25b6b5b609543d7b12bac42a8df503e993718224f7d868f8cd"
 metafile = true
 
 [[files]]
-file = "mods/nice-to-have.toml"
-hash = "05e78a2c5a62af12e4403ee8f087dd15e00ccd34a8d09fc3716777b0825d9f1e"
-metafile = true
-
-[[files]]
 file = "mods/no-potion-offset.toml"
 hash = "34cfe621598531cb46f73aaa56e17aa99e8d7aba29f2949bda04ae709a17b4ea"
 metafile = true
