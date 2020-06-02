@@ -1,0 +1,14 @@
+name = "Lil Tater Reloaded"
+filename = "LilTaterReloaded-1.1.0+20w20b.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2958/816/LilTaterReloaded-1.1.0+20w20b.jar"
+hash-format = "murmur2"
+hash = "2436381095"
+
+[update]
+[update.curseforge]
+file-id = 2958816
+project-id = 383066
+release-channel = "beta"

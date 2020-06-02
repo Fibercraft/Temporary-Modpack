@@ -136,6 +136,11 @@ hash = "0163eb6e15580840c27f9a616a79fb38f12831b0730f1cbc3df7e0491e0c523a"
 metafile = true
 
 [[files]]
+file = "mods/lil-tater-reloaded.toml"
+hash = "8d0eb4b55ea908a4dfcc2e32bfa7c529a59750d42d008e7690b9dd1b135d8084"
+metafile = true
+
+[[files]]
 file = "mods/mo-structures.toml"
 hash = "9f15cc0d91655656708ec61d0d4cbf038e811fcc888442a58712df3a60e439c9"
 metafile = true
