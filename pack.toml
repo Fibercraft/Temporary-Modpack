@@ -6,6 +6,6 @@ hash-format = "sha256"
 hash = "7fe49cc5f6ff8fcc3507144debc2f349672b98799593abffe4908ca6a86142fd"
 
 [versions]
-fabric = "0.8.4+build.198"
-minecraft = "20w20b"
-yarn = "20w20b+build.13"
+fabric = "0.8.7+build.201"
+minecraft = "1.16-pre6"
+yarn = "1.16-pre6+build.1"
