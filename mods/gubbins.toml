@@ -1,14 +1,14 @@
 name = "Gubbins"
-filename = "gubbins-beta-1.2.7-20w20b.jar"
+filename = "gubbins-beta-1.2.10-1.16-pre5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2956/910/gubbins-beta-1.2.7-20w20b.jar"
+url = "https://edge.forgecdn.net/files/2978/770/gubbins-beta-1.2.10-1.16-pre5.jar"
 hash-format = "murmur2"
-hash = "3055119574"
+hash = "364149566"
 
 [update]
 [update.curseforge]
-file-id = 2956910
+file-id = 2978770
 project-id = 374432
 release-channel = "beta"

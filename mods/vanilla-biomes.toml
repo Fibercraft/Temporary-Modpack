@@ -1,14 +1,14 @@
 name = "Vanilla+ Biomes"
-filename = "vanillaplusbiomes-0.2.0.jar"
+filename = "vanillaplusbiomes-0.2.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2957/637/vanillaplusbiomes-0.2.0.jar"
+url = "https://edge.forgecdn.net/files/2966/234/vanillaplusbiomes-0.2.1.jar"
 hash-format = "murmur2"
-hash = "4124459605"
+hash = "809317733"
 
 [update]
 [update.curseforge]
-file-id = 2957637
+file-id = 2966234
 project-id = 367944
 release-channel = "beta"

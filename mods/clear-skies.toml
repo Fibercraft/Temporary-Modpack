@@ -1,14 +1,14 @@
 name = "Clear Skies"
-filename = "clear-skies-mc115-1.2.31.jar"
+filename = "clear-skies-mc116-1.3.35.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2958/689/clear-skies-mc115-1.2.31.jar"
+url = "https://edge.forgecdn.net/files/2970/412/clear-skies-mc116-1.3.35.jar"
 hash-format = "murmur2"
-hash = "2678905876"
+hash = "916622060"
 
 [update]
 [update.curseforge]
-file-id = 2958689
+file-id = 2970412
 project-id = 332523
 release-channel = "beta"

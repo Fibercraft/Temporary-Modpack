@@ -1,14 +1,14 @@
 name = "Light Block - Fabric"
-filename = "lightblock-20w20b+1.0.0+build.2.jar"
+filename = "lightblock-1.16-pre2+1.0.1+build.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2959/871/lightblock-20w20b+1.0.0+build.2.jar"
+url = "https://edge.forgecdn.net/files/2977/160/lightblock-1.16-pre2+1.0.1+build.5.jar"
 hash-format = "murmur2"
-hash = "2593764122"
+hash = "4098894524"
 
 [update]
 [update.curseforge]
-file-id = 2959871
+file-id = 2977160
 project-id = 383801
 release-channel = "beta"

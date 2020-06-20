@@ -1,14 +1,14 @@
 name = "Winged"
-filename = "winged-0.6.jar"
+filename = "winged-1.16-pre8-1.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2958/482/winged-0.6.jar"
+url = "https://edge.forgecdn.net/files/2982/718/winged-1.16-pre8-1.0.jar"
 hash-format = "murmur2"
-hash = "4200177489"
+hash = "3502567671"
 
 [update]
 [update.curseforge]
-file-id = 2958482
+file-id = 2982718
 project-id = 381349
 release-channel = "beta"

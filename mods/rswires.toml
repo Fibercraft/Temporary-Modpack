@@ -1,14 +1,14 @@
 name = "RSWires"
-filename = "rswires-4.4.0.jar"
+filename = "rswires-4.7.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2956/501/rswires-4.4.0.jar"
+url = "https://edge.forgecdn.net/files/2972/893/rswires-4.7.0.jar"
 hash-format = "murmur2"
-hash = "1013357543"
+hash = "120195740"
 
 [update]
 [update.curseforge]
-file-id = 2956501
+file-id = 2972893
 project-id = 286328
 release-channel = "beta"

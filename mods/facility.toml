@@ -1,14 +1,14 @@
 name = "Facility"
-filename = "facility-mc116-0.8.132.jar"
+filename = "facility-mc116-0.9.139.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2958/695/facility-mc116-0.8.132.jar"
+url = "https://edge.forgecdn.net/files/2970/397/facility-mc116-0.9.139.jar"
 hash-format = "murmur2"
-hash = "2332613074"
+hash = "2049881824"
 
 [update]
 [update.curseforge]
-file-id = 2958695
+file-id = 2970397
 project-id = 319822
 release-channel = "beta"
