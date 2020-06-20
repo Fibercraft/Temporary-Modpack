@@ -86,6 +86,11 @@ hash = "d5818d063dc62b3a6b1c4e7b6fda985257950fc6c1b27cd8f72841cf220b1236"
 metafile = true
 
 [[files]]
+file = "mods/cloth-api.toml"
+hash = "0fdd91981611cb20a8c308cd3fe1fb6d9b50da17d92b5507f0203e8764f5664e"
+metafile = true
+
+[[files]]
 file = "mods/connected-block-textures.toml"
 hash = "3a38a6e242c983b73cf0d693fd9c9d1dc81a895c57b8a28bdf729b31531e125a"
 metafile = true
