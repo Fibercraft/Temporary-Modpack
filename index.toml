@@ -311,11 +311,6 @@ hash = "9e5b19f8f837fba3d92ab265191d983320de89ed6b2d73e1696c74da49db318f"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.toml"
-hash = "9ab70490ca83a0d3cd3521e4a5a41a3f0800582134a6d1850dc5f1e0a6871e47"
-metafile = true
-
-[[files]]
 file = "mods/simple-void-world.toml"
 hash = "f8902d49eb81f2d1a7c190b8eb6956cf0d1dcb4bc33516daa1317946ebe50659"
 metafile = true
@@ -333,11 +328,6 @@ metafile = true
 [[files]]
 file = "mods/staff-of-building.toml"
 hash = "5dfeb14d8520a3ff4e00da1ecb085c7862e1b2ecc60bad1b418ee04001411e90"
-metafile = true
-
-[[files]]
-file = "mods/sword-parry-fabric.toml"
-hash = "742f30871654dbe2244b2a93dbc6be12081251a09f8c2ed9d72ea7eb19c20c3e"
 metafile = true
 
 [[files]]
