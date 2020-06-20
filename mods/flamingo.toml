@@ -1,8 +1,8 @@
 name = "Flamingo"
-filename = "Flamingo-20w20b-1.17.jar"
+filename = "Flamingo-1.16-pre2-1.18.jar"
 side = "both"
 
 [download]
-url = "https://fibercraft.immibis.com/comp500/Flamingo-20w20b-1.17.jar"
+url = "https://github.com/Yoghurt4C/Flamingo/releases/download/v1.18/Flamingo-1.16-pre2-1.18.jar"
 hash-format = "sha256"
-hash = "71F95301DCA005D09D85BBC5895CF942D2418493D04697FE9C71FEDF34438261"
+hash = "D4B44A01506FF32CA2D23FBBB138023A3212D7B0C44249EAB5AD96BDB733BEC5"
