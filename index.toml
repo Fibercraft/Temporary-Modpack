@@ -196,11 +196,6 @@ hash = "651f4e7a5aac332cd00ea58f7cc1ba7c8ee21d3efadf4de4f16362b5dc504e7e"
 metafile = true
 
 [[files]]
-file = "mods/improved-stations.toml"
-hash = "db4a98231e4b1ee60517df9c264f317cdd3c505b70ca2a279ccd7ea9a5489380"
-metafile = true
-
-[[files]]
 file = "mods/inca.toml"
 hash = "95510c7cff0e1b3b3195e19d84d491d13cc6df563388d2ab196aa5b6dc8310d8"
 metafile = true
@@ -308,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/sheep-consistency.toml"
 hash = "9e5b19f8f837fba3d92ab265191d983320de89ed6b2d73e1696c74da49db318f"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.toml"
+hash = "fc12f3877f8969cf17070bcc51bc52aaaaab7b88ab0b802b40cae0b166b8605d"
 metafile = true
 
 [[files]]
