@@ -1,0 +1,14 @@
+name = "Glass mod"
+filename = "glassmod-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2977/975/glassmod-1.0-SNAPSHOT.jar"
+hash-format = "murmur2"
+hash = "1522740902"
+
+[update]
+[update.curseforge]
+file-id = 2977975
+project-id = 386451
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Blackstone Tools"
+filename = "blackstone-tools-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2979/220/blackstone-tools-1.0.0.jar"
+hash-format = "murmur2"
+hash = "3865311401"
+
+[update]
+[update.curseforge]
+file-id = 2979220
+project-id = 388087
+release-channel = "beta"

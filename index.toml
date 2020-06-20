@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/adabranium.toml"
+hash = "f7258237558d4c5970190cf122bf026885b112b37df890ef2273cc6d806db6eb"
+metafile = true
+
+[[files]]
 file = "mods/adorn.toml"
 hash = "efd0c506f600f4e2911a5f7c43c747342240bdcbd7f6e2ac2f77e266cd83c925"
 metafile = true
@@ -26,8 +31,18 @@ hash = "cfe8e02d04ddf3035790f3abca30590285e5595881237ce2cfc8ae7b7951e9c7"
 metafile = true
 
 [[files]]
+file = "mods/artifice.toml"
+hash = "4b4f869fb36ca66cbf74f098ce418347f32abc1da05db73b18f2d44d70276a7b"
+metafile = true
+
+[[files]]
 file = "mods/bee-angry-est.toml"
 hash = "e3c739518e082399e1b25050979d2fe6c3e630a74b62728b0c22ab6be6b7c7c1"
+metafile = true
+
+[[files]]
+file = "mods/better-world-list.toml"
+hash = "51f4618f78e73c340b1c0d3899744d6221361bbd735f2b072921e5642c3a3222"
 metafile = true
 
 [[files]]
@@ -36,8 +51,18 @@ hash = "e45420779ec039eb1c8b6aa7ba5484ac2e33f2e016c5fdd1d09cbe0f9ef67358"
 metafile = true
 
 [[files]]
+file = "mods/blackstone-tools.toml"
+hash = "28d742a5235ea2b59626fd98afeda946a7a4ae722c3fb8b812092ba04e8f2a5b"
+metafile = true
+
+[[files]]
 file = "mods/blockus.toml"
 hash = "756ed4896d573ac0344893bebb7a9f1f5426653d91f5f7187875d3a14c834d16"
+metafile = true
+
+[[files]]
+file = "mods/boring-backgrounds.toml"
+hash = "94f7b78397a29cacdd9eed2ad623a76d65b57fccae7bd9bde350d0f1c826ddf0"
 metafile = true
 
 [[files]]
@@ -46,8 +71,13 @@ hash = "cf75838cc3035df1933e2fd7d40a5d97545947f71311180a226c98b70ee162f9"
 metafile = true
 
 [[files]]
-file = "mods/carpet.toml"
-hash = "7d8c2887d020c8ad53d3937ad8e93a446c9dcfc307db378713605b389f7d2dba"
+file = "mods/cardinal-components.toml"
+hash = "33928ded4bb06dcc8ddb0dd3eadaf42bb087e8073b50b43555ebe674d258f293"
+metafile = true
+
+[[files]]
+file = "mods/cauldron-overhaul.toml"
+hash = "cfc48a6eb7450389822c2fe68b741da965f1e0df3654525b2f37f37c3fa81ee0"
 metafile = true
 
 [[files]]
@@ -56,13 +86,33 @@ hash = "d5818d063dc62b3a6b1c4e7b6fda985257950fc6c1b27cd8f72841cf220b1236"
 metafile = true
 
 [[files]]
+file = "mods/cloth-api.toml"
+hash = "1265841a4da6c0a7ff86914f5656083906ddc2eae1b243750045834001905d36"
+metafile = true
+
+[[files]]
 file = "mods/connected-block-textures.toml"
 hash = "3a38a6e242c983b73cf0d693fd9c9d1dc81a895c57b8a28bdf729b31531e125a"
 metafile = true
 
 [[files]]
+file = "mods/crusade.toml"
+hash = "99086b7ea45d4305be44a2e81edef0799dee462237bb291922b224e708496c0a"
+metafile = true
+
+[[files]]
 file = "mods/custom-selection-box-port.toml"
 hash = "a07523fa827b21cd2a162ac0591a119d743a625b4a636407828687b44d2ad544"
+metafile = true
+
+[[files]]
+file = "mods/dark-loading-screen.toml"
+hash = "c55f19680de13cd0ba88c4f27b00a6dcd3771b33628d94b33218050ca7d25a1c"
+metafile = true
+
+[[files]]
+file = "mods/delicious-dishes.toml"
+hash = "dd31bc32357b94d89771ff8ce04184f9f66447ecf24ca56de6c7185b58112d3d"
 metafile = true
 
 [[files]]
@@ -86,6 +136,11 @@ hash = "87de42b657d7f025d836a9494a2f562afb9a46c6ef38beb5bd4a28f1d06d637e"
 metafile = true
 
 [[files]]
+file = "mods/extra-alchemy.toml"
+hash = "13a9c3653196f7f036bf0bde600b79e510833e944363b072c175fa3c333fe5b9"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "cdf4ceca3c7ee0d5a96bde25eb22b0f3751c0abe5282b3b46a6590cf23134d33"
 metafile = true
@@ -106,13 +161,33 @@ hash = "007da03d60ad6a39278d37bfdc76779f98b2bb63109f9ef7ebe8e84bd7192b9a"
 metafile = true
 
 [[files]]
+file = "mods/fabric-vertical-slabs.toml"
+hash = "a62363fc7ad9c7438ce2420d9fc1cf0f35641a3c4bd22a9b07e94720a7b471ac"
+metafile = true
+
+[[files]]
 file = "mods/facility.toml"
 hash = "d8dcc5e9e56ce4b5c295418c10a83e879269a1a0e44737617b32cd362534b9cd"
 metafile = true
 
 [[files]]
+file = "mods/fat-experience-orbs.toml"
+hash = "83f37639e8ef185c74d4dacc557965d2e9d23146d8697847960ef31b2171a500"
+metafile = true
+
+[[files]]
 file = "mods/flamingo.toml"
 hash = "57ff085619b0b06f684938e1c79ab3c74fc86f25ff15b971c2d00a1d6c8ee94d"
+metafile = true
+
+[[files]]
+file = "mods/glass-mod.toml"
+hash = "b4cda603d89409853d491bf8e155ecd02129b08b3dfe19cd2ff53365f78e6e3f"
+metafile = true
+
+[[files]]
+file = "mods/golems-galore.toml"
+hash = "c54c20a6d20e0e17e3857d6142eacfad31c9a2e203b2bc6d74466734461f7d0b"
 metafile = true
 
 [[files]]
@@ -126,6 +201,16 @@ hash = "db4a98231e4b1ee60517df9c264f317cdd3c505b70ca2a279ccd7ea9a5489380"
 metafile = true
 
 [[files]]
+file = "mods/inca.toml"
+hash = "95510c7cff0e1b3b3195e19d84d491d13cc6df563388d2ab196aa5b6dc8310d8"
+metafile = true
+
+[[files]]
+file = "mods/inmis.toml"
+hash = "ed40f0f998a4c697cdcc03e5bc9a80ba1dacb6fd0de8db7118b852b0aea751ef"
+metafile = true
+
+[[files]]
 file = "mods/light-block-fabric.toml"
 hash = "a2089233d63e365227068e5de3d8e71e819147083373d56d4e1e343e5cbccb6d"
 metafile = true
@@ -133,6 +218,16 @@ metafile = true
 [[files]]
 file = "mods/lil-tater-reloaded.toml"
 hash = "9a9580643cc1d701e2747d64dca82874eee8456b43f5d55f8b0a1a1b86da17ce"
+metafile = true
+
+[[files]]
+file = "mods/makkit.toml"
+hash = "1290309b01de961bd3eb6ddea276bd2167b7e6786eebb200180610c6c6b457ae"
+metafile = true
+
+[[files]]
+file = "mods/mo-glass.toml"
+hash = "616dad784d1a14f1fce42d0cde43bb2779237b815a5a5634ae17904cef7963e4"
 metafile = true
 
 [[files]]
@@ -181,6 +276,11 @@ hash = "39a541a9add6d5e33a42d1509fe32e6562f3cc71f835886cf9123ba2fd01885d"
 metafile = true
 
 [[files]]
+file = "mods/potion-tipped.toml"
+hash = "901f1f607c57e54ba74b6f9b58a7895e09ee736c5975b0570e768f8934825de4"
+metafile = true
+
+[[files]]
 file = "mods/right-click-clear.toml"
 hash = "05cf6ea8b699b1e3c206ad14c016cd4577580c545e9ec821aae2078456269a98"
 metafile = true
@@ -196,13 +296,33 @@ hash = "40f42762f810788ca95225fcd6a9be07893a612e01029cdeda47a7384515425b"
 metafile = true
 
 [[files]]
+file = "mods/sandwichable.toml"
+hash = "27785f138c1cfb3086098647f4063a31c44ce83bd03e6c67876ec3e002ad941a"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-to-clipboard-fabric.toml"
 hash = "d98538b36b9abc99c58287108eee2c75d6b6cdba97766664a76ebd8279a7c679"
 metafile = true
 
 [[files]]
+file = "mods/sheep-consistency.toml"
+hash = "9e5b19f8f837fba3d92ab265191d983320de89ed6b2d73e1696c74da49db318f"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.toml"
 hash = "9ab70490ca83a0d3cd3521e4a5a41a3f0800582134a6d1850dc5f1e0a6871e47"
+metafile = true
+
+[[files]]
+file = "mods/simple-void-world.toml"
+hash = "f8902d49eb81f2d1a7c190b8eb6956cf0d1dcb4bc33516daa1317946ebe50659"
+metafile = true
+
+[[files]]
+file = "mods/simply-strawberries.toml"
+hash = "95dc22314f0ef42c8aba7accd300a846a0b1cf67356f3451dc1795032f1cc50e"
 metafile = true
 
 [[files]]
@@ -213,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/staff-of-building.toml"
 hash = "5dfeb14d8520a3ff4e00da1ecb085c7862e1b2ecc60bad1b418ee04001411e90"
+metafile = true
+
+[[files]]
+file = "mods/sword-parry-fabric.toml"
+hash = "742f30871654dbe2244b2a93dbc6be12081251a09f8c2ed9d72ea7eb19c20c3e"
 metafile = true
 
 [[files]]

@@ -1,0 +1,14 @@
+name = "Sandwichable"
+filename = "sandwichable-1.1.1-snapshot__1.16-pre2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2975/109/sandwichable-1.1.1-snapshot__1.16-pre2.jar"
+hash-format = "murmur2"
+hash = "1847673172"
+
+[update]
+[update.curseforge]
+file-id = 2975109
+project-id = 374143
+release-channel = "beta"

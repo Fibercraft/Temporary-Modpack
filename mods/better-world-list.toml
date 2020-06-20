@@ -1,0 +1,14 @@
+name = "Better World List"
+filename = "betterworldlist-1.0.3-1.16-pre8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2982/426/betterworldlist-1.0.3-1.16-pre8.jar"
+hash-format = "murmur2"
+hash = "978243258"
+
+[update]
+[update.curseforge]
+file-id = 2982426
+project-id = 384644
+release-channel = "beta"

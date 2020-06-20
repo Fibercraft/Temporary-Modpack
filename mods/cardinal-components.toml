@@ -1,0 +1,14 @@
+name = "Cardinal Components"
+filename = "Cardinal-Components-API-2.4.0-nightly.1.16-pre5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2979/326/Cardinal-Components-API-2.4.0-nightly.1.16-pre5.jar"
+hash-format = "murmur2"
+hash = "1231156231"
+
+[update]
+[update.curseforge]
+file-id = 2979326
+project-id = 318449
+release-channel = "beta"

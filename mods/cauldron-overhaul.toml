@@ -1,0 +1,14 @@
+name = "Cauldron Overhaul"
+filename = "cauldronoverhaul-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2977/528/cauldronoverhaul-1.5.0.jar"
+hash-format = "murmur2"
+hash = "4123399358"
+
+[update]
+[update.curseforge]
+file-id = 2977528
+project-id = 386608
+release-channel = "beta"

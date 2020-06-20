@@ -1,0 +1,14 @@
+name = "Potion Tipped"
+filename = "potiontipped-0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2977/539/potiontipped-0.3.1.jar"
+hash-format = "murmur2"
+hash = "592879029"
+
+[update]
+[update.curseforge]
+file-id = 2977539
+project-id = 388777
+release-channel = "beta"

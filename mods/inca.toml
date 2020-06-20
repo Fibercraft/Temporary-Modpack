@@ -1,0 +1,14 @@
+name = "Inca"
+filename = "inca-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2983/198/inca-1.2.0.jar"
+hash-format = "murmur2"
+hash = "304075158"
+
+[update]
+[update.curseforge]
+file-id = 2983198
+project-id = 269618
+release-channel = "beta"

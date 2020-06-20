@@ -1,0 +1,14 @@
+name = "Simple Void World"
+filename = "SimpleVoidWorld-4.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2983/709/SimpleVoidWorld-4.0.4.jar"
+hash-format = "murmur2"
+hash = "2787799852"
+
+[update]
+[update.curseforge]
+file-id = 2983709
+project-id = 254466
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Fabric Vertical Slabs"
+filename = "verticalslabs-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2978/600/verticalslabs-1.0.3.jar"
+hash-format = "murmur2"
+hash = "3758287439"
+
+[update]
+[update.curseforge]
+file-id = 2978600
+project-id = 374332
+release-channel = "beta"

@@ -1,0 +1,8 @@
+name = "Artifice"
+filename = "artifice-0.7.2+1.16-pre2.jar"
+side = "both"
+
+[download]
+url = "https://jcenter.bintray.com/com/lettuce/fudge/artifice/0.7.2+1.16-pre2/artifice-0.7.2+1.16-pre2.jar"
+hash-format = "sha256"
+hash = "A28A9AC9AC0126C5D604D3D13980A53846814F1BDF91128EF476FB0F4D670144"

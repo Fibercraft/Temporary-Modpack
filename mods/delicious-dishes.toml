@@ -1,0 +1,14 @@
+name = "Delicious Dishes"
+filename = "dishes-1.0.1-nopatchouli.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2982/450/dishes-1.0.1-nopatchouli.jar"
+hash-format = "murmur2"
+hash = "2792658264"
+
+[update]
+[update.curseforge]
+file-id = 2982450
+project-id = 390141
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Cloth API (Fabric)"
+filename = "cloth-api-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2977/608/cloth-api-1.0.2.jar"
+hash-format = "murmur2"
+hash = "26702318"
+
+[update]
+[update.curseforge]
+file-id = 2977608
+project-id = 317121
+release-channel = "beta"

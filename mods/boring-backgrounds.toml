@@ -1,0 +1,14 @@
+name = "Boring Backgrounds"
+filename = "boringbackgrounds-2.1.0-1.16.pre3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2977/485/boringbackgrounds-2.1.0-1.16.pre3.jar"
+hash-format = "murmur2"
+hash = "1815862824"
+
+[update]
+[update.curseforge]
+file-id = 2977485
+project-id = 363126
+release-channel = "beta"

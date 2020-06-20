@@ -1,0 +1,14 @@
+name = "Mo Glass"
+filename = "Mo-Glass-1.2-MC1.16-rc1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2983/210/Mo-Glass-1.2-MC1.16-rc1.jar"
+hash-format = "murmur2"
+hash = "3408423470"
+
+[update]
+[update.curseforge]
+file-id = 2983210
+project-id = 353426
+release-channel = "beta"
