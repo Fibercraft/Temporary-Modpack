@@ -11,11 +11,6 @@ hash = "efd0c506f600f4e2911a5f7c43c747342240bdcbd7f6e2ac2f77e266cd83c925"
 metafile = true
 
 [[files]]
-file = "mods/advancements-enlarger.toml"
-hash = "3360de683eee52d4951db5205324acbdb302ef799d276408d2aab0829754c3d5"
-metafile = true
-
-[[files]]
 file = "mods/aerial-affinity-fabric.toml"
 hash = "3dcade896170843bfbcc100e67fa66221d234b4aada2b73308f87cc02b4638df"
 metafile = true
