@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-autoswitch.toml"
-hash = "2b63b8ff03f116aa578eb8cec3ec54df5c16e5929c01c079d433b49f5e56f2f2"
+hash = "727467f94dc63f880ea9e256f6b9d5471ad6423831f1f2031c4e95b7e5f140bc"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/rswires.toml"
-hash = "40f42762f810788ca95225fcd6a9be07893a612e01029cdeda47a7384515425b"
+hash = "e6f503cfaef8d67e2e2040d52381b31c319c2536c32dad771d83c66f62fa219e"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/where-is-it.toml"
-hash = "34201e0050b2fc461591c833fce34935205b1957cd362bb0bb4171a12c691541"
+hash = "5550a154dc93220c1d37a6a972726687220a30ff534116a7e67ad666e3ba9864"
 metafile = true
 
 [[files]]

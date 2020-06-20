@@ -1,14 +1,14 @@
 name = "Where Is It"
-filename = "WhereIsIt-1.16-pre1-1.5.jar"
+filename = "WhereIsIt-1.16-pre7-1.6.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/2972/909/WhereIsIt-1.16-pre1-1.5.jar"
+url = "https://edge.forgecdn.net/files/2984/366/WhereIsIt-1.16-pre7-1.6.jar"
 hash-format = "murmur2"
-hash = "4154523761"
+hash = "3961656623"
 
 [update]
 [update.curseforge]
-file-id = 2972909
+file-id = 2984366
 project-id = 378036
 release-channel = "beta"
