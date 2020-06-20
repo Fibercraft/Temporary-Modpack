@@ -1,8 +1,0 @@
-name = "Pling"
-filename = "pling-1.1.1.jar"
-side = "client"
-
-[download]
-url = "https://fibercraft.immibis.com/haykam/pling-1.1.1.jar"
-hash-format = "sha256"
-hash = "f5e0d1c3ac31d20c1fdb840ea3bef92b82dc79a8e1168b6254d36c7a73550b0b"

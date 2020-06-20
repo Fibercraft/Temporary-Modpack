@@ -1,8 +1,0 @@
-name = "Carpet"
-filename = "fabric-carpet-20w20b-1.3.23+v200513.jar"
-side = "both"
-
-[download]
-url = "https://fibercraft.immibis.com/comp500/fabric-carpet-20w20b-1.3.23%2Bv200513.jar"
-hash-format = "sha256"
-hash = "9C7DCC3B0D060BD63F0A71B1A3E5104ECE9A2989BE8EBF47D7CC672FA58291EE"
