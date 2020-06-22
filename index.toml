@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components.toml"
-hash = "33928ded4bb06dcc8ddb0dd3eadaf42bb087e8073b50b43555ebe674d258f293"
+hash = "2bd6b1d67e21c1c6d9cafed38c7efe7659d8149776de132caaacc041435f7904"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage-fabric.toml"
-hash = "87de42b657d7f025d836a9494a2f562afb9a46c6ef38beb5bd4a28f1d06d637e"
+hash = "f613456aa2d2d722d21532e89c7517a2c8b9216b429e6b509860042c5884481c"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "cdf4ceca3c7ee0d5a96bde25eb22b0f3751c0abe5282b3b46a6590cf23134d33"
+hash = "81aa7937151ea5234d0d2b013630beafdc4473fe45eb5efdc67bdfdb69e8cdd6"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/lil-tater-reloaded.toml"
-hash = "9a9580643cc1d701e2747d64dca82874eee8456b43f5d55f8b0a1a1b86da17ce"
+hash = "f9b9aa9eea74da6a899f2fa4bf7ba34e4f39da7dcbe5d862e4f1ec401cd4d6ed"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "fc12f3877f8969cf17070bcc51bc52aaaaab7b88ab0b802b40cae0b166b8605d"
+hash = "f565e42d26f10be2364e343d1f44112b68da7c3fc2c94944686402172890e7e3"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxelmap.toml"
-hash = "a95cf8a918ef9d26d2af0b2130f2ebfa2140e53f127c49a8140239d2fb38c3dc"
+hash = "1cc6006383d6830b7b3acbdd7f818fe1893789353db28236fed0ab9c142a6fad"
 metafile = true
 
 [[files]]
