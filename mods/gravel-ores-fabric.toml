@@ -1,0 +1,14 @@
+name = "Gravel Ores (Fabric)"
+filename = "gravel-ores-2.0.1-unstable.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2985/38/gravel-ores-2.0.1-unstable.jar"
+hash-format = "murmur2"
+hash = "1835438097"
+
+[update]
+[update.curseforge]
+file-id = 2985038
+project-id = 382525
+release-channel = "beta"

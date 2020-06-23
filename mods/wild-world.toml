@@ -1,0 +1,14 @@
+name = "Wild World"
+filename = "WildWorld-1.2.0-1.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2985/769/WildWorld-1.2.0-1.16.jar"
+hash-format = "murmur2"
+hash = "203102370"
+
+[update]
+[update.curseforge]
+file-id = 2985769
+project-id = 325378
+release-channel = "beta"
