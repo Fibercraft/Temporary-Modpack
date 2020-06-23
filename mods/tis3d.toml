@@ -1,8 +1,0 @@
-name = "TIS-3D"
-filename = "TIS-3D-MC1.16-pre2-Fabric-1.5.0.ALPHA.0.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Sturmlilie/TIS-3D/releases/download/1.16-ALPHA/TIS-3D-MC1.16-pre2-Fabric-1.5.0.ALPHA.0.jar"
-hash-format = "sha256"
-hash = "FC9453DEC309E64CD1F46A0AB37606E1B6530D4B9F4C43E6E41286326C8DF058"
