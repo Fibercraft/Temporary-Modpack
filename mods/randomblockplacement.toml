@@ -1,0 +1,14 @@
+name = "RandomBlockPlacement"
+filename = "randomblockplacement-1.16-rc1-fabric0.12.5-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2984/645/randomblockplacement-1.16-rc1-fabric0.12.5-1.1.jar"
+hash-format = "murmur2"
+hash = "889736671"
+
+[update]
+[update.curseforge]
+file-id = 2984645
+project-id = 363104
+release-channel = "beta"

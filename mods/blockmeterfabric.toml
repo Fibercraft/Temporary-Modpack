@@ -1,0 +1,14 @@
+name = "BlockMeterFabric"
+filename = "BlockMeter-1.16-rc1-fabric0.12.5-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2984/591/BlockMeter-1.16-rc1-fabric0.12.5-1.4.2.jar"
+hash-format = "murmur2"
+hash = "2067019065"
+
+[update]
+[update.curseforge]
+file-id = 2984591
+project-id = 369343
+release-channel = "beta"

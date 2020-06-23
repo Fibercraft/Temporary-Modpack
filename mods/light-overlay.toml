@@ -1,0 +1,14 @@
+name = "Light Overlay (Rift/Forge/Fabric)"
+filename = "LightOverlay-5.2.2-unstable.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2964/496/LightOverlay-5.2.2-unstable.jar"
+hash-format = "murmur2"
+hash = "1678489078"
+
+[update]
+[update.curseforge]
+file-id = 2964496
+project-id = 325492
+release-channel = "beta"

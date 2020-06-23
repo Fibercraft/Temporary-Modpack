@@ -1,0 +1,14 @@
+name = "Speed Trading"
+filename = "speedtrading-1.0.1+1.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2985/13/speedtrading-1.0.1+1.16.jar"
+hash-format = "murmur2"
+hash = "1639321447"
+
+[update]
+[update.curseforge]
+file-id = 2985013
+project-id = 391016
+release-channel = "beta"

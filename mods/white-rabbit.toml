@@ -1,0 +1,14 @@
+name = "White Rabbit"
+filename = "WhiteRabbit-1.0.2+1.16-rc1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2985/320/WhiteRabbit-1.0.2+1.16-rc1.jar"
+hash-format = "murmur2"
+hash = "4109793980"
+
+[update]
+[update.curseforge]
+file-id = 2985320
+project-id = 388391
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Reborn Core"
+filename = "RebornCore-1.16-4.3.0+build.31.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2985/84/RebornCore-1.16-4.3.0+build.31.jar"
+hash-format = "murmur2"
+hash = "1633943880"
+
+[update]
+[update.curseforge]
+file-id = 2985084
+project-id = 237903
+release-channel = "beta"
