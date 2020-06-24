@@ -3,9 +3,9 @@ name = "Temporary Modpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f7b4cc9f17d49ef6efbee9a609859464263df2f7d609207a36d8c07e6d2290bf"
+hash = "f9bc2c5185d858d969bf09b35b13032e1ee4f0ede7f3188475fc30f1cb0a7f3c"
 
 [versions]
 fabric = "0.8.7+build.201"
-minecraft = "1.16-rc1"
+minecraft = "1.16"
 yarn = "wow this field literally does nothing haha yes"

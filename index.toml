@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/campanion.toml"
-hash = "cf75838cc3035df1933e2fd7d40a5d97545947f71311180a226c98b70ee162f9"
+hash = "7050f22b9e433b418b4fef55c2095e12674f2756939485303370c03d0569c2d7"
 metafile = true
 
 [[files]]
@@ -98,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-api.toml"
 hash = "0fdd91981611cb20a8c308cd3fe1fb6d9b50da17d92b5507f0203e8764f5664e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "8099cc94dc2aa599878734f400938591f4acad9e6b2764902bb69a6ebbdedf0e"
 metafile = true
 
 [[files]]
@@ -291,6 +296,11 @@ hash = "f9b9aa9eea74da6a899f2fa4bf7ba34e4f39da7dcbe5d862e4f1ec401cd4d6ed"
 metafile = true
 
 [[files]]
+file = "mods/linked-storage.toml"
+hash = "ab991c857b7cd6723936db592513db76fc6a950461b4d52d2ebf677045bb4756"
+metafile = true
+
+[[files]]
 file = "mods/makkit.toml"
 hash = "1290309b01de961bd3eb6ddea276bd2167b7e6786eebb200180610c6c6b457ae"
 metafile = true
@@ -328,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/name-pain.toml"
 hash = "1018011fd26f61629c0027a7f452f68437198055bd01d83cf8f652e0ca62a5ca"
+metafile = true
+
+[[files]]
+file = "mods/nice-to-have.toml"
+hash = "f2656ff4a6e76c80a91c617ff0a8ab7e711afa46f88fb97681318910f87cf96d"
 metafile = true
 
 [[files]]
@@ -382,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "472c992a633069ea6be13d659c0bec555bad48b5d6daf24a6bb0e653d3742441"
+hash = "c08f7f07178f74920b0cd442e27066e28d2ee85d54f430455e100ac13d5f0204"
 metafile = true
 
 [[files]]
@@ -403,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/sheep-consistency.toml"
 hash = "9e5b19f8f837fba3d92ab265191d983320de89ed6b2d73e1696c74da49db318f"
+metafile = true
+
+[[files]]
+file = "mods/simple-teleporters-fabric.toml"
+hash = "91240210028b1c4311fb2b767740d2bd1f48beb0fdd78ab5ee00b49c390a579f"
 metafile = true
 
 [[files]]
@@ -436,6 +456,11 @@ hash = "5dfeb14d8520a3ff4e00da1ecb085c7862e1b2ecc60bad1b418ee04001411e90"
 metafile = true
 
 [[files]]
+file = "mods/suludom.toml"
+hash = "82d0dbc59ee593c44a7c54594d220ac0e066c243538e03b7c12a2ebfee399ff8"
+metafile = true
+
+[[files]]
 file = "mods/superaxes.toml"
 hash = "a3fe8ae7cb6dca657d9d835e6816f377f08c7895c8704aff637ead854d11092a"
 metafile = true
@@ -456,6 +481,11 @@ hash = "b917ffa3e622847c8884f17e50c1d3fdbcdae71d504fc31ebc539f04e3f688a7"
 metafile = true
 
 [[files]]
+file = "mods/trap-expansion-fabric.toml"
+hash = "039ca22d0fb8ee00d0dec0b4ce38281d5509680e97fbd6bfd5f0d2e95b382775"
+metafile = true
+
+[[files]]
 file = "mods/traverse.toml"
 hash = "66337b6279d06d5c85a3df20f9776421f57b15705045ec36b3bfacbe01858a13"
 metafile = true
@@ -468,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/unbad-redstone.toml"
 hash = "7b1f2bb575cb478c16c7d2af6921059e867c85f322551af56e5ce66ea7fc9184"
+metafile = true
+
+[[files]]
+file = "mods/villager-hats.toml"
+hash = "094e80210831f73f8e3d29171e1ee32ede80a405c85336ddfe89c0518c535487"
 metafile = true
 
 [[files]]

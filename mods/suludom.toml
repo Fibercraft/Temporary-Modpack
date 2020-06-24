@@ -1,0 +1,14 @@
+name = "Suludom"
+filename = "suludom-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2986/142/suludom-0.1.0.jar"
+hash-format = "murmur2"
+hash = "4291244289"
+
+[update]
+[update.curseforge]
+file-id = 2986142
+project-id = 356218
+release-channel = "beta"

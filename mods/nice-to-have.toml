@@ -1,0 +1,14 @@
+name = "Nice To Have (Fabric)"
+filename = "nice-to-have-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2986/51/nice-to-have-1.3.0.jar"
+hash-format = "murmur2"
+hash = "818857470"
+
+[update]
+[update.curseforge]
+file-id = 2986051
+project-id = 332704
+release-channel = "beta"
